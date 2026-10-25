@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  plugins: [react()],
-  base: '/sitecraft-basic-portfolio-master/',
+plugins: [react()],
+base: '/mathilde-lafargue-portfolio/',
 })
