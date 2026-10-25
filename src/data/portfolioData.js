@@ -19,7 +19,8 @@ const portfolioData = {
 
     cv: "",
 
-    profileImage: "/sitecraft-basic-portfolio-master/mathilde-lafargue.png",
+    profileImage: "/mathilde-lafargue-portfolio/mathilde-lafargue.png",
+
 
     tagline:
       "Open-minded, motivated and energetic, I am seeking an international internship from January to April 2027 to develop my skills in management, negotiation and project coordination.",
